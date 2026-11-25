@@ -1,0 +1,31 @@
+﻿teamId,abbreviation,teamName,simpleName,location,hexColorMain,hexColorSecond,hexColorThird
+1610612737,ATL,Atlanta Hawks,Hawks,Atlanta,#E03A3E,#C1D32F,#26282A
+1610612738,BOS,Boston Celtics,Celtics,Boston,#007A33,#BA9653,#963821
+1610612751,BKN,Brooklyn Nets,Nets,Brooklyn,#000000,#FFFFFF,#002A60
+1610612766,CHA,Charlotte Hornets,Hornets,Charlotte,#1D1160,#00788C,#A1A1A4
+1610612741,CHI,Chicago Bulls,Bulls,Chicago,#CE1141,#000000,#FFFFFF
+1610612739,CLE,Cleveland Cavaliers,Cavaliers,Cleveland,#6F263D,#041E42,#FFB81C
+1610612742,DAL,Dallas Mavericks,Mavericks,Dallas,#007DC7,#C6CFD5,#FFFFFF
+1610612743,DEN,Denver Nuggets,Nuggets,Denver,#FEC524,#0E2240,#8B2131
+1610612765,DET,Detroit Pistons,Pistons,Detroit,#003AA8,#DE002D,#BEC0C2
+1610612744,GSW,Golden State Warriors,Warriors,Golden State,#FDBA21,#006BB8,#26282A
+1610612745,HOU,Houston Rockets,Rockets,Houston,#CF093F,#000000,#C4CED4
+1610612754,IND,Indiana Pacers,Pacers,Indiana,#FDBB30,#002D62,#BEC0C2
+1610612746,LAC,Los Angeles Clippers,Clippers,Los Angeles,#C8102E,#1D428A,#BEC0C2
+1610612747,LAL,Los Angeles Lakers,Lakers,Los Angeles,#552583,#FDB927,#000000
+1610612763,MEM,Memphis Grizzlies,Grizzlies,Memphis,#5D76A9,#12173F,#F5B112
+1610612748,MIA,Miami Heat,Heat,Miami,#98002E,#F9A01B,#000000
+1610612749,MIL,Milwaukee Bucks,Bucks,Milwaukee,#00471B,#EEE1C6,##000000
+1610612750,MIN,Minnesota Timberwolves,Timberwolves,Minnesota,#236192,#0C2340,#9EA2A2
+1610612740,NOP,New Orleans Pelicans,Pelicans,New Orleans,#C8102E,#0C2340,#85714D
+1610612752,NYK,New York Knicks,Knicks,New York,#F58426,#006BB6,#BEC0C2
+1610612760,OKC,Oklahoma City Thunder,Thunder,Oklahoma City,#007AC1,#EF3B24,#002D62
+1610612753,ORL,Orlando Magic,Magic,Orlando,#0077C0,#C4CED4,#000000
+1610612755,PHI,Philadelphia 76ers,76ers,Philadelphia,#006BB8,#EE104A,#FFFFFF
+1610612756,PHX,Phoenix Suns,Suns,Phoenix,#E56020,#1D1160,#000000
+1610612757,POR,Portland Trail Blazers,Trail Blazers,Portland,#E03A3E,#000000,#FFFFFF
+1610612758,SAC,Sacramento Kings,Kings,Sacramento,#5A2D81,#63727A,#000000
+1610612759,SAS,San Antonio Spurs,Spurs,San Antonio,#C4CED4,#000000,#FFFFFF
+1610612761,TOR,Toronto Raptors,Raptors,Toronto,#CE1141,#000000,#B4975A
+1610612762,UTA,Utah Jazz,Jazz,Utah,#00471B,#002B5C,#F9A01B
+1610612764,WAS,Washington Wizards,Wizards,Washington,#E31837,#002B5C,#C4CED4

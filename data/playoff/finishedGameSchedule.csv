@@ -1,0 +1,86 @@
+,GAME_ID,GAME_DATE,home_team_abbr,away_team_abbr,home_full_name,away_full_name,home_score,away_score
+0,0042000101,2021-05-23,PHI,WAS,Philadelphia 76ers,Washington Wizards,125,118
+1,0042000102,2021-05-26,PHI,WAS,Philadelphia 76ers,Washington Wizards,120,95
+2,0042000103,2021-05-29,WAS,PHI,Washington Wizards,Philadelphia 76ers,103,132
+3,0042000104,2021-05-31,WAS,PHI,Washington Wizards,Philadelphia 76ers,122,114
+4,0042000105,2021-06-02,PHI,WAS,Philadelphia 76ers,Washington Wizards,129,112
+5,0042000111,2021-05-22,BKN,BOS,Brooklyn Nets,Boston Celtics,104,93
+6,0042000112,2021-05-25,BKN,BOS,Brooklyn Nets,Boston Celtics,130,108
+7,0042000113,2021-05-28,BOS,BKN,Boston Celtics,Brooklyn Nets,125,119
+8,0042000114,2021-05-30,BOS,BKN,Boston Celtics,Brooklyn Nets,126,141
+9,0042000115,2021-06-01,BKN,BOS,Brooklyn Nets,Boston Celtics,123,109
+10,0042000121,2021-05-22,MIL,MIA,Milwaukee Bucks,Miami Heat,109,107
+11,0042000122,2021-05-24,MIL,MIA,Milwaukee Bucks,Miami Heat,132,98
+12,0042000123,2021-05-27,MIA,MIL,Miami Heat,Milwaukee Bucks,84,113
+13,0042000124,2021-05-29,MIA,MIL,Miami Heat,Milwaukee Bucks,103,120
+14,0042000131,2021-05-23,NYK,ATL,New York Knicks,Atlanta Hawks,105,107
+15,0042000132,2021-05-26,NYK,ATL,New York Knicks,Atlanta Hawks,101,92
+16,0042000133,2021-05-28,ATL,NYK,Atlanta Hawks,New York Knicks,105,94
+17,0042000134,2021-05-30,ATL,NYK,Atlanta Hawks,New York Knicks,113,96
+18,0042000135,2021-06-02,NYK,ATL,New York Knicks,Atlanta Hawks,89,103
+19,0042000141,2021-05-23,UTA,MEM,Utah Jazz,Memphis Grizzlies,109,112
+20,0042000142,2021-05-26,UTA,MEM,Utah Jazz,Memphis Grizzlies,141,129
+21,0042000143,2021-05-29,MEM,UTA,Memphis Grizzlies,Utah Jazz,111,121
+22,0042000144,2021-05-31,MEM,UTA,Memphis Grizzlies,Utah Jazz,113,120
+23,0042000145,2021-06-02,UTA,MEM,Utah Jazz,Memphis Grizzlies,126,110
+24,0042000151,2021-05-23,PHX,LAL,Phoenix Suns,Los Angeles Lakers,99,90
+25,0042000152,2021-05-25,PHX,LAL,Phoenix Suns,Los Angeles Lakers,102,109
+26,0042000153,2021-05-27,LAL,PHX,Los Angeles Lakers,Phoenix Suns,109,95
+27,0042000154,2021-05-30,LAL,PHX,Los Angeles Lakers,Phoenix Suns,92,100
+28,0042000155,2021-06-01,PHX,LAL,Phoenix Suns,Los Angeles Lakers,115,85
+29,0042000156,2021-06-03,LAL,PHX,Los Angeles Lakers,Phoenix Suns,100,113
+30,0042000161,2021-05-22,DEN,POR,Denver Nuggets,Portland Trail Blazers,109,123
+31,0042000162,2021-05-24,DEN,POR,Denver Nuggets,Portland Trail Blazers,128,109
+32,0042000163,2021-05-27,POR,DEN,Portland Trail Blazers,Denver Nuggets,115,120
+33,0042000164,2021-05-29,POR,DEN,Portland Trail Blazers,Denver Nuggets,115,95
+34,0042000165,2021-06-01,DEN,POR,Denver Nuggets,Portland Trail Blazers,147,140
+35,0042000166,2021-06-03,POR,DEN,Portland Trail Blazers,Denver Nuggets,115,126
+36,0042000171,2021-05-22,LAC,DAL,LA Clippers,Dallas Mavericks,103,113
+37,0042000172,2021-05-25,LAC,DAL,LA Clippers,Dallas Mavericks,121,127
+38,0042000173,2021-05-28,DAL,LAC,Dallas Mavericks,LA Clippers,108,118
+39,0042000174,2021-05-30,DAL,LAC,Dallas Mavericks,LA Clippers,81,106
+40,0042000175,2021-06-02,LAC,DAL,LA Clippers,Dallas Mavericks,100,105
+41,0042000176,2021-06-04,DAL,LAC,Dallas Mavericks,LA Clippers,97,104
+42,0042000177,2021-06-06,LAC,DAL,LA Clippers,Dallas Mavericks,126,111
+43,0042000201,2021-06-06,PHI,ATL,Philadelphia 76ers,Atlanta Hawks,124,128
+44,0042000202,2021-06-08,PHI,ATL,Philadelphia 76ers,Atlanta Hawks,118,102
+45,0042000203,2021-06-11,ATL,PHI,Atlanta Hawks,Philadelphia 76ers,111,127
+46,0042000204,2021-06-14,ATL,PHI,Atlanta Hawks,Philadelphia 76ers,103,100
+47,0042000205,2021-06-16,PHI,ATL,Philadelphia 76ers,Atlanta Hawks,106,109
+48,0042000206,2021-06-18,ATL,PHI,Atlanta Hawks,Philadelphia 76ers,99,104
+49,0042000207,2021-06-20,PHI,ATL,Philadelphia 76ers,Atlanta Hawks,96,103
+50,0042000211,2021-06-05,BKN,MIL,Brooklyn Nets,Milwaukee Bucks,115,107
+51,0042000212,2021-06-07,BKN,MIL,Brooklyn Nets,Milwaukee Bucks,125,86
+52,0042000213,2021-06-10,MIL,BKN,Milwaukee Bucks,Brooklyn Nets,86,83
+53,0042000214,2021-06-13,MIL,BKN,Milwaukee Bucks,Brooklyn Nets,107,96
+54,0042000215,2021-06-15,BKN,MIL,Brooklyn Nets,Milwaukee Bucks,114,108
+55,0042000216,2021-06-17,MIL,BKN,Milwaukee Bucks,Brooklyn Nets,104,89
+56,0042000217,2021-06-19,BKN,MIL,Brooklyn Nets,Milwaukee Bucks,111,115
+57,0042000221,2021-06-08,UTA,LAC,Utah Jazz,LA Clippers,112,109
+58,0042000222,2021-06-10,UTA,LAC,Utah Jazz,LA Clippers,117,111
+59,0042000223,2021-06-12,LAC,UTA,LA Clippers,Utah Jazz,132,106
+60,0042000224,2021-06-14,LAC,UTA,LA Clippers,Utah Jazz,118,104
+61,0042000225,2021-06-16,UTA,LAC,Utah Jazz,LA Clippers,111,119
+62,0042000226,2021-06-18,LAC,UTA,LA Clippers,Utah Jazz,131,119
+63,0042000231,2021-06-07,PHX,DEN,Phoenix Suns,Denver Nuggets,122,105
+64,0042000232,2021-06-09,PHX,DEN,Phoenix Suns,Denver Nuggets,123,98
+65,0042000233,2021-06-11,DEN,PHX,Denver Nuggets,Phoenix Suns,102,116
+66,0042000234,2021-06-13,DEN,PHX,Denver Nuggets,Phoenix Suns,118,125
+67,0042000301,2021-06-23,MIL,ATL,Milwaukee Bucks,Atlanta Hawks,113,116
+68,0042000302,2021-06-25,MIL,ATL,Milwaukee Bucks,Atlanta Hawks,125,91
+69,0042000303,2021-06-27,ATL,MIL,Atlanta Hawks,Milwaukee Bucks,102,113
+70,0042000304,2021-06-29,ATL,MIL,Atlanta Hawks,Milwaukee Bucks,110,88
+71,0042000305,2021-07-01,MIL,ATL,Milwaukee Bucks,Atlanta Hawks,123,112
+72,0042000306,2021-07-03,ATL,MIL,Atlanta Hawks,Milwaukee Bucks,107,118
+73,0042000311,2021-06-20,PHX,LAC,Phoenix Suns,LA Clippers,120,114
+74,0042000312,2021-06-22,PHX,LAC,Phoenix Suns,LA Clippers,104,103
+75,0042000313,2021-06-24,LAC,PHX,LA Clippers,Phoenix Suns,106,92
+76,0042000314,2021-06-26,LAC,PHX,LA Clippers,Phoenix Suns,80,84
+77,0042000315,2021-06-28,PHX,LAC,Phoenix Suns,LA Clippers,102,116
+78,0042000316,2021-06-30,LAC,PHX,LA Clippers,Phoenix Suns,103,130
+79,0042000401,2021-07-06,PHX,MIL,Phoenix Suns,Milwaukee Bucks,118,105
+80,0042000402,2021-07-08,PHX,MIL,Phoenix Suns,Milwaukee Bucks,118,108
+81,0042000403,2021-07-11,MIL,PHX,Milwaukee Bucks,Phoenix Suns,120,100
+82,0042000404,2021-07-14,MIL,PHX,Milwaukee Bucks,Phoenix Suns,109,103
+83,0042000405,2021-07-17,PHX,MIL,Phoenix Suns,Milwaukee Bucks,119,123
+84,0042000406,2021-07-20,MIL,PHX,Milwaukee Bucks,Phoenix Suns,105,98
